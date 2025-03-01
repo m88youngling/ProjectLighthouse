@@ -28,7 +28,7 @@ public static class GameVersionHelper
 {
     #region Title IDs
     #region LBP1 Title IDs
-    // https://www.serialstation.com/games/b89b4eb4-4e4c-4e54-b72b-f7f9dbfac125
+    // https://www.serialstation.com/games/b89b4eb4-4e4c-4e54-b72b-f7f9dbfac125 
     public static readonly string[] LittleBigPlanet1TitleIds =
     {
         "BCES00141",
